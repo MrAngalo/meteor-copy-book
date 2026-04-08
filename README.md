@@ -1,6 +1,6 @@
 # Copy Book
 
-A Meteor Client addon that copies a book's pages to empty Books and Quills in your inventory.
+A Meteor Client addon for **Minecraft 1.21.8** that copies a book's pages to empty Books and Quills in your inventory.
 
 ## Commands
 
@@ -37,6 +37,10 @@ Copies the pages of a held book into the specified number of empty Books and Qui
 - The command waits 1–2 seconds between each copy to avoid detection.
 - Sneak (hold Shift) at any time during the process to cancel.
 - Progress is shown in chat (e.g. `1/5`, `2/5`, ...).
+
+## Installation
+
+Check the [Releases](../../releases) page for pre-built JAR files. Place the JAR alongside Meteor Client in your `mods` folder.
 
 ## Building
 
